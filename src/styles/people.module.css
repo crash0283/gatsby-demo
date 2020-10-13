@@ -1,0 +1,33 @@
+.user {
+    display: flex;
+    align-items: center;
+    margin: 0 auto 12px auto;
+}
+
+.user:last-child {
+    margin-bottom: 0;
+}
+
+.title {
+    color: rgb(147,214,147);
+    border-bottom: 2px dashed white;
+    width: 50%;
+    margin: 0;
+    padding-bottom: 1rem;
+}
+
+.avatar {
+    flex: 0 0 96px;
+    width: 96px;
+    height: 96px;
+    margin: 0;
+}
+
+.description {
+    flex: 1;
+    margin-left: 18px;
+}
+
+.excerpt {
+    margin: 0;
+}

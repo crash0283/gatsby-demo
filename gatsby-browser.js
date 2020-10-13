@@ -5,3 +5,6 @@
  */
 
 // You can delete this file if you're not using it
+
+//Add Global Styles
+import "./src/styles/styles.css"
