@@ -33,6 +33,7 @@ const Header = ({ siteTitle }) => (
         <div style={{display: "flex", justifyContent: "space-around"}}>
           <Link to="/" style={{color: "white", textDecoration: "none"}}>Home</Link>
           <Link to="/bio" style={{color: "white", textDecoration: "none"}}>Bio</Link>
+          <Link to="/about" style={{color: "white", textDecoration: "none"}}>About</Link>
         </div>
     </div>
   </header>
